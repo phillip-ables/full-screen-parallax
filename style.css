@@ -6,17 +6,18 @@
   height: 100vh;
   width: 100%;
   background-image: url("http://ilovegreeninspiration.com/wp-content/uploads/2012/12/clouds-girl-inspiration-inspirational-favim-com-500377_large.jpg");
-  background-size: cover;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 .image1{
   height: 100vh;
   width: 100%;
   background-image: url("https://s3.favim.com/orig/42/brown-hair-fashion-girl-hair-inspiration-Favim.com-361693.jpg");
-  background-size: cover;
 }
 .image2 {
   height: 100vh;
   width: 100%;
   background-image: url("http://ak7.picdn.net/shutterstock/videos/7537387/thumb/1.jpg");
-  background-size: cover;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
