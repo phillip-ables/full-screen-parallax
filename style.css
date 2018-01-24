@@ -8,13 +8,17 @@
   background-image: url("http://ilovegreeninspiration.com/wp-content/uploads/2012/12/clouds-girl-inspiration-inspirational-favim-com-500377_large.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  overflow: hidden;
+  background-attachment: fixed;
 }
 .image1 {
   height: 100vh;
   width: 100%;
   background-image: url("https://s3.favim.com/orig/42/brown-hair-fashion-girl-hair-inspiration-Favim.com-361693.jpg");
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: cover;
+  overflow: hidden;
+  background-attachment: fixed;
 }
 .image2 {
   height: 100vh;
@@ -22,11 +26,13 @@
   background-image: url("http://ak7.picdn.net/shutterstock/videos/7537387/thumb/1.jpg");
   background-size: 100% 100%;
   background-repeat: no-repeat;
+  overflow: hidden;
+  background-attachment: fixed;
 }
 h1 {
-  font-size: 35px;
+  font-size: 40px;
   text-align: center;
-  padding-top: 40%;
+  padding-top: 20%;
   color: white;
   height: 100vh;
   width: 100%;
